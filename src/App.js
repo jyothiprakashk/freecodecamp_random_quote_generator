@@ -52,7 +52,7 @@ class QuoteGenerator extends React.Component {
                   <button id="new-quote" onClick={this.randomQuoteNumber}>New Quote</button>
               </div>
           </div>
-          <a href="http://jyothiprakash.herokuapp.com/" className="coded_by">by JyothiPrakash</a>
+          <a href="http://jyothiprakash.herokuapp.com/" className="coded_by">by JyothiPrakash K</a>
       </div>
       
     );
